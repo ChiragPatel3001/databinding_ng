@@ -1,0 +1,14 @@
+span
+{
+   flex: 1 1 auto;
+}
+mat-toolbar
+{
+background-color: purple;
+color: white;
+padding: 10px;
+font-size: 20px;
+}
+a{
+    color: white;
+}
